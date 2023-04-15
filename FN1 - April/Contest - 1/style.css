@@ -1,0 +1,41 @@
+#first_section{
+    border-style: solid;
+    display: block;
+    padding: 2%;
+
+}
+
+#link{
+    color: black;
+}
+
+
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 3%;
+}
+
+
+a:link {
+    color: black;
+}
+  
+a:visited {
+    color: black;
+ }
+  
+a:hover {
+    color: black;
+}
+  
+a:active {
+    color: blacke;
+}
+
+h2{
+    font-size: 36px;
+}
+
+h1{
+    font-size: 36px;
+}
